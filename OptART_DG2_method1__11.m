@@ -9,7 +9,6 @@ xx=[0:step:1];
 d=5*pi/12;
 
 
-%% it seems that it's working :?
 
 %% DG1
 ym1=zeros(1,1/step+1);
