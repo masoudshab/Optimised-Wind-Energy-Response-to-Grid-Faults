@@ -54,6 +54,8 @@ ym12=zeros(1/step+1,2);
 %     end
 %     end
 
+%% I applied the optimization ideas to the last part of this project
+
 
     %% Hello git
     %% How are you github?? :)
